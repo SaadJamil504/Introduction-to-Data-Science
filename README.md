@@ -1,6 +1,6 @@
 # Introduction to Data Science
 
-Welcome to my **Introduction to Data Science** repository! This repository contains all the course-related content and assignments for my Data Science course.
+Welcome to my **Introduction to Data Science** repository! This repository contains all the course-related content for my Introduction to Data Science course.
 
 ## Contents
 
